@@ -3,7 +3,8 @@
     "description": "Handle file uploads with extensible validation and storage strategies",
     "authors": [
         {
-            "name": "Sander Baeckelant"
+            "name": "Sander Baeckelant",
+            "email" : "sanderbaeckelant@hotmail.com"
         }
     ],
     "require": {
@@ -14,7 +15,7 @@
     },
     "extra" : {
         "branch-alias" : {
-            "master" : "0.1"
+            "dev-master" : "0.1"
         }
     },
     "minimum-stability" : "dev"
