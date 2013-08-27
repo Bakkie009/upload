@@ -1,0 +1,16 @@
+{
+    "name": "Bakkie009/upload",
+    "type": "library",
+    "description": "Handle file uploads with extensible validation and storage strategies",
+    "authors": [
+        {
+            "name": "Sander Baeckelant"
+        }
+    ],
+    "require": {
+        "codeguy/upload" : "*"
+    },
+    "autoload": {
+        "psr-0": { "Bakkie": "src/" }
+    }
+}
