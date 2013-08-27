@@ -1,5 +1,5 @@
 {
-    "name": "Bakkie009/upload",
+    "name": "sbaeckelant/upload",
     "type": "library",
     "description": "Handle file uploads with extensible validation and storage strategies",
     "authors": [
